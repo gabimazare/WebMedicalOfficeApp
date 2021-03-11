@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements xmlns="http://schemas.microsoft.com/AspNet/AdRotator-Advertisement-File-1.2">
+  <Ad xmlns="">
+    <ImageUrl>https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1384/2020/07/22152054/Maccas.jpg</ImageUrl>
+    <AlternateText>Click here</AlternateText>
+    <NavigateUrl>https://mcdonalds.ro/</NavigateUrl>
+  </Ad>
+
+  <Ad xmlns="">
+    <ImageUrl>https://thenewargument.com/wp-content/uploads/2018/07/giphy-2.gif</ImageUrl>
+    <AlternateText>Click here</AlternateText>
+    <NavigateUrl>https://mcdonalds.ro/</NavigateUrl>
+  </Ad>
+</Advertisements>
+                
